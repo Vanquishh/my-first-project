@@ -1,0 +1,32 @@
+body {
+    background-image: url(../asset/abstract-blue-background-simple-design-for-your-website-free-vector.jpg);
+}
+h1, p, h3 {text-align: center;}
+img{display: block; margin-left:  auto; margin-right: auto;}
+.menu{background-color: blanchedalmond; padding: 20px; width: 60%; margin: auto;}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.component {text-align: left;  width: 75%;}
+.price {text-align: right;   width: 25%;}
+
+hr {
+    height: 4px;
+    background-color: black;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: violet;
+}
+.time {
+    color: beige;
+}
+.date {
+    color: cornsilk;
+    text-orientation: upright;
+}
